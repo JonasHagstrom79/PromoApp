@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Promo App</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="my_display_name">My display name</string>
+    <string name="include_junior">include \'Junior\'</string>
+    <string name="immediate_start">Immediate Start</string>
+    <string name="available_from_date">Available from date</string>
+    <string name="preview_message">Preview Message</string>
 </resources>
